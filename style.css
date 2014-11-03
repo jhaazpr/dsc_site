@@ -8,12 +8,12 @@ body {
 p {
 	line-height: 1.5em;
 	text-align: center;
-	color: white;
+	color: black;
 	margin: 0 auto;
 }
 
 .blue {
-	color: #41BBB8;
+	color: #003262;
 }
 
 .yellow {
@@ -26,6 +26,10 @@ p {
 
 .white {
 	color: white;
+}
+
+.black {
+	color: black;
 }
 
 
@@ -109,11 +113,19 @@ a:active {
 }
 
 .vc_blue {
-	background-color: #41BBB8 !important;
+	background-color: #003262 !important;
 }
 
 .vc_yellow {
 	background-color: #FFB819 !important;
+}
+
+.vc_grey {
+	background-color: rgba(243, 243, 243, 0.7) !important;
+}
+
+.vc_white {
+	background-color: rgba(255, 255, 255, 0.7) !important;
 }
 
 .wrapper {
