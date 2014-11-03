@@ -121,3 +121,31 @@ a:active {
 	margin: 0 auto;
 	padding: 10% 0 10% 0;
 }
+
+.splash-pic{
+	position:fixed;
+	top:-50%;
+	left:-50%;
+	width: 200%;
+	height: 200%;
+}
+
+.splash-pic img{
+	position: absolute;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	margin:auto;
+	min-width:50%;
+	min-height:50%;
+	z-index: 0;
+}
+
+.splash-logo{
+	position: relative;
+	z-index: 1;
+	margin-right: auto;
+	margin-left: auto;
+	width: 500px;
+}
