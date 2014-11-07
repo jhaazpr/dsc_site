@@ -110,6 +110,7 @@ a:active {
 
 .vc_red {
 	background-color: #ef4a23 !important;
+	/* background-color: #e44d38 !important; */
 }
 
 .vc_blue {
@@ -126,6 +127,10 @@ a:active {
 
 .vc_white {
 	background-color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.vc_flyer {
+	background-color: #F26B4F !important;
 }
 
 .wrapper {
